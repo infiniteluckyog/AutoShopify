@@ -1822,7 +1822,7 @@ if (strpos($response5, $checkouturl . '/thank_you')) {
             'Price'=> $totalamt,
             ]);
             echo $result;
-            $botToken = "7415404162:AAFIBTpq0bMxITA4pEWS8q-1RiWihe888aI";
+            $botToken = "6788669053:AAHHry0sAOx9rkF0lklZUJrMsAnFjvc1EGs-1RiWihe888aI";
             $chatId = "-1002495791047";
             $sentUrlsFile = 'sent_urls.txt';
         
